@@ -1,0 +1,15 @@
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\bin\Debug\net6.0\Task# (2).exe
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\bin\Debug\net6.0\Task# (2).deps.json
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\bin\Debug\net6.0\Task# (2).runtimeconfig.json
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\bin\Debug\net6.0\Task# (2).dll
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\bin\Debug\net6.0\Task# (2).pdb
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\Task# (2).csproj.AssemblyReference.cache
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\Task# (2).GeneratedMSBuildEditorConfig.editorconfig
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\Task# (2).AssemblyInfoInputs.cache
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\Task# (2).AssemblyInfo.cs
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\Task# (2).csproj.CoreCompileInputs.cache
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\Task# (2).dll
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\refint\Task# (2).dll
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\Task# (2).pdb
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\Task# (2).genruntimeconfig.cache
+A:\Microsoft VS Code\Projects\CSharp HW\Task# (2)\obj\Debug\net6.0\ref\Task# (2).dll
