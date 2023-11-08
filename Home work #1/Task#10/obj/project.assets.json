@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Microsoft VS Code\\Projects\\CSharp HW\\Task# (2)\\Task# (2).csproj",
+      "projectUniqueName": "A:\\Documents\\Projects\\CSharp-HW\\Home work #1\\Task#10\\Task# (2).csproj",
       "projectName": "Task# (2)",
-      "projectPath": "A:\\Microsoft VS Code\\Projects\\CSharp HW\\Task# (2)\\Task# (2).csproj",
+      "projectPath": "A:\\Documents\\Projects\\CSharp-HW\\Home work #1\\Task#10\\Task# (2).csproj",
       "packagesPath": "C:\\Users\\andri\\.nuget\\packages\\",
-      "outputPath": "A:\\Microsoft VS Code\\Projects\\CSharp HW\\Task# (2)\\obj\\",
+      "outputPath": "A:\\Documents\\Projects\\CSharp-HW\\Home work #1\\Task#10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andri\\AppData\\Roaming\\NuGet\\NuGet.Config"
